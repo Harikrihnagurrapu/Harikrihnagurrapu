@@ -1,6 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently pursuing my final year in Electronics and Computer Science Engineering.  <br>👯 I’m looking to collaborate on open-source projects and challenging coding problems.  <br>🤝 I’m looking for help with industry-specific technologies and interview preparation.  <br>🌱 I’m currently learning machine learning, advanced algorithms and web development.  <br>💬 Ask me about coding challenges, project templates, or anything related to programming and tech.  <br>⚡ Fun fact: I enjoy exploring new technologies and experimenting with side projects in my free time!
-
+## 💫 About Me<br>
+🔭 B.E. graduate in Electronics and Computer Science Engineering from VESIT (2022–2026).<br>
+🌱 Exploring LLMs, RAG pipelines, system design, and cloud technologies.<br>
+💻 Passionate about AI, backend development, and building scalable software systems.<br>
+🤝 Open to collaborating on innovative projects and open-source contributions.<br>
+💬 Ask me about Python, FastAPI, Machine Learning, and AI applications.<br>
+⚡ Always learning. Always building.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harikrishna__112) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishna-gurrapu-721b5a324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harikrishnagurrapu112@gmail.com) 
